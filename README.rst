@@ -1113,7 +1113,7 @@ MachineLearning
         
 * |OK_ICON| `Yambda-5B — A Large-Scale Multi-modal Dataset for Ranking And Retrieval - Industrial-scale [...] <https://huggingface.co/datasets/yandex/yambda>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/YaMBDa-5B-Music-Interaction-Dataset.yml>`_]
         
-* |FIXME_ICON| `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Yahoo-Ratings-and-Classification-Data.yml>`_]
+* |OK_ICON| `MovieLens Ratings Dataset <https://grouplens.org/datasets/movielens/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Yahoo-Ratings-and-Classification-Data.yml>`_]
         
 * |OK_ICON| `YouTube-BoundingBoxes <https://research.google.com/youtube-bb/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/YouTube-BoundingBoxes.yml>`_]
         
